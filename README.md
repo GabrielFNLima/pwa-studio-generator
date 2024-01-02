@@ -1,7 +1,14 @@
-# PWA Studio Component Generator
+# PWA Studio: Component Generator
 This script is designed to facilitate the generation of components and extensions for PWA Studio.
 
-
+## Summary
+* [Usage](#usage)
+* [Command](#commands)
+    * [Arguments](#arguments)
+    * [Options](#options)
+* [Installation](#installation)
+* [Example Usage](#example-usage)
+* [Disclaimer](#disclaimer)
 
 ## Usage
 
@@ -29,7 +36,7 @@ Create a new extension using a template.
 
 #### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/GabrielFNLima/pwa-studio-generator.git
+git clone https://github.com/GabrielFNLima/pwa-component-generator.git
 cd pwa-component-generator
 ```
 #### Step 2: Add the CLI to /usr/local/bin
