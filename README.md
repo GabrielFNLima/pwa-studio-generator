@@ -36,8 +36,8 @@ Create a new extension using a template.
 
 #### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/GabrielFNLima/pwa-component-generator.git
-cd pwa-component-generator
+git clone https://github.com/GabrielFNLima/pwa-studio-generator.git
+cd pwa-studio-generator
 ```
 #### Step 2: Add the CLI to /usr/local/bin
 ```bash
