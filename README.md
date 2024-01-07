@@ -1,6 +1,9 @@
 # PWA Studio: Component Generator
 This script is designed to facilitate the generation of components and extensions for PWA Studio.
 
+### Vscode Extension
+[PWA Studio Generator](https://marketplace.visualstudio.com/items?itemName=devgfnl.vscode-pwa-studio-generator)
+
 ## Summary
 * [Usage](#usage)
 * [Command](#commands)
